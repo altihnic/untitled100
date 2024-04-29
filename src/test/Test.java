@@ -11,6 +11,7 @@ public class Test {
         System.out.println();
        for (Integer i: list)
            System.out.println(i);
+        System.out.println();
 
         }
 
